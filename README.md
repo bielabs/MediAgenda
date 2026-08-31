@@ -8,3 +8,5 @@ Thymeleaf, Tailwind CSS, HTML5, CSS3, JavaScript
 MySQL, 
 Spring Data JPA.
 
+## Entrega 1:
+* 🔗 **[Link para histórias em BDD](./Histórias_BDD.md)**
