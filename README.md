@@ -18,4 +18,4 @@ O sistema busca facilitar a rotina administrativa de clínicas de pequeno e méd
 
 - [Histórias em BDD](./Histórias_BDD.md)
 - [Protótipo Lo-Fi (Figma)](https://www.figma.com/design/UEResJqM7OeZHOcTmodCFX/MediAgenda---Prot%C3%B3tipo-Lo-Fi?node-id=3-46&p=f&t=iy5O8tKdYP0rVKmC-0)
-- Screencast (YouTube): (https://youtu.be/cMknoEeaaEY)
+- Screencast (YouTube): https://youtu.be/cMknoEeaaEY
