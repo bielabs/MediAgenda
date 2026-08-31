@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.svg" alt="Logo MediAgenda" width="120" />
+  <img src="./logo.svg" alt="Logo MediAgenda" width="120" />
 </p>
 
 <h1 align="center">MediAgenda</h1>
